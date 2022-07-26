@@ -1,0 +1,10 @@
+.custom {
+    color: wheat;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.template-exemplo {
+    color: gray;
+    background: rgb(221, 221, 228)
+}
